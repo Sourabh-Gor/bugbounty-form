@@ -53,4 +53,4 @@ Clicking the submit button does not trigger the Toast.
 Clicking the submit button should initiate Toast.
 
 ### Actual Behavior:
-The submit button does not trigger Tost
+The submit button does not trigger Toast.
